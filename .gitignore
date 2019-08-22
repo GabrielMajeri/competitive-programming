@@ -1,0 +1,7 @@
+# Temporary files created by the Python interpreter
+__pycache__/
+*.py[cod]
+
+# Extensions for input/output text files
+*.in
+*.out
