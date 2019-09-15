@@ -1,5 +1,5 @@
 """
-Description: https://code.google.com/codejam/contest/dashboard?c=6234486
+Description: https://code.google.com/codejam/contest/dashboard?c=6234486#s=p0
 
 Solution: construct an undirected graph where the nodes are villains' names,
 and edges indicate the fact that the villains don't like each other.
